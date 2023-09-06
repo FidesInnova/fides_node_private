@@ -1,4 +1,4 @@
-# server_backend_main
+
 ### https://github.com/FidesInnova/validator_node_docker_container
 ### https://github.com/FidesInnova/backend_node_docker_container
 ### https://github.com/FidesInnova/blockchain_node_without_docker
