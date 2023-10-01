@@ -3,14 +3,14 @@
 
 
 ## FIDES INNOVA BLOCKCHAIN NODE
-## A. The Fides Innova blockchain network includes the Validator and General nodes - source code.
-### https://github.com/FidesInnova/blockchain_node
+### A. The Fides Innova blockchain network includes the Validator and General nodes - source code.
+#### https://github.com/FidesInnova/blockchain_node
 
-## A.1. The Validator node of the Fides Innova blockchain network - in docker. 
-### https://github.com/FidesInnova/validator_node_docker_container
+### A.1. The Validator node of the Fides Innova blockchain network - in docker. 
+#### https://github.com/FidesInnova/validator_node_docker_container
 
-## A.2. The General node of the Fides Innova blockchain network - in docker.
-### https://github.com/FidesInnova/blockchain_node_without_docker
+### A.2. The General node of the Fides Innova blockchain network - in docker.
+#### https://github.com/FidesInnova/blockchain_node_without_docker
 
 
 ## FIDES INNOVA IoT NODE
