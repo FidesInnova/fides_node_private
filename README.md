@@ -1,3 +1,5 @@
+![alt text](img.png)
+
 Fides Innova is a decentralized platform based on blockchain and zero-knowledge proof (ZKP) for automatic and authentication-free communication among Internet-of-Things (IoT), smart home, and wearable devices.
 
 The Fides Innova platform contains several network nodes distributed around the world. Each network node has: 1- An IoT backend equipped with the MQTT protocol to communicate with physical IoT devices. 2- A blockchain node that facilitates communication with other Fides Innova network nodes. 3- A service contract management module that enables automatic communication between untrusted IoT devices and users without any authentication.
