@@ -45,10 +45,10 @@ Fides Innova introduced the concept of a Service Contract, which is a small prog
 The zkMultiSensor is an IoT device that contains a thermometer, hygrometer, door sensor, motion detector, and a smart button. It can send data with a ZKP (Zero-Knowledge Proof) that includes the time and GPS coordinates of the data-gathering environment.
 #### https://github.com/
 
-## D.2. Zero-Knowledge (zk) Camera
+### D.2. Zero-Knowledge (zk) Camera
 The zkCamera is an image-capturing device whose its microcontroller can prove the validity of its operation, attached with date/time and GPS coordinates.
 #### https://github.com/
 
-## D.3. Wi-Fi Mesh Network on Espressif ESP32-C3 Microcontroller
+### D.3. Wi-Fi Mesh Network on Espressif ESP32-C3 Microcontroller
 A Wi-Fi Mesh Network is a routing mechanism implemented that lets Wi-Fi-enabled systems form a mesh network without any need to access the Internet. 
 #### https://github.com/
