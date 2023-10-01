@@ -1,4 +1,4 @@
-![alt text](http://url/to/e1.png)
+![alt text](e1.png)
 
 
 Fides Innova is a decentralized platform based on blockchain and zero-knowledge proof (ZKP) for automatic and authentication-free communication among Internet-of-Things (IoT), smart home, and wearable devices.
