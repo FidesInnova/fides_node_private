@@ -13,7 +13,7 @@ Fides Innova introduced the concept of a Service Contract, which is a small prog
 #### To access the private repositories, please email info@fidesinnova.io
 
 
-## FIDES INNOVA BLOCKCHAIN NODE
+## A. FIDES INNOVA BLOCKCHAIN NODE
 ### A. The Fides Innova blockchain network includes the Validator and General nodes - source code.
 #### https://github.com/FidesInnova/blockchain_node
 
@@ -24,7 +24,7 @@ Fides Innova introduced the concept of a Service Contract, which is a small prog
 #### https://github.com/FidesInnova/blockchain_node_without_docker
 
 
-## FIDES INNOVA IoT NODE
+## B. FIDES INNOVA IoT NODE
 ### B.1. The IoT backend of the Fides Innova network - source code. 
 #### https://github.com/FidesInnova/server_backend
 
@@ -35,7 +35,7 @@ Fides Innova introduced the concept of a Service Contract, which is a small prog
 #### https://github.com/FidesInnova/mobile_app
 
 
-## FIDES INNOVA IoT Service Contract Management
+## C. FIDES INNOVA IoT Service Contract Management
 ### C.1. The IoT service contract creator and service market - source code
 #### https://github.com/FidesInnova/developer_web_app
 
