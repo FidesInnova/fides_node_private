@@ -1,5 +1,5 @@
 # Fides Private Repositories 
-### To access the private repositories, please email info@fidesinnova.io
+#### To access the private repositories, please email info@fidesinnova.io
 
 
 ## FIDES INNOVA BLOCKCHAIN NODE
@@ -14,18 +14,18 @@
 
 
 ## FIDES INNOVA IoT NODE
-## B.1. The IoT backend of the Fides Innova network - source code. 
-### https://github.com/FidesInnova/server_backend
+### B.1. The IoT backend of the Fides Innova network - source code. 
+#### https://github.com/FidesInnova/server_backend
 
-## B.2. The IoT backend of the Fides Innova network - in docker. 
-### https://github.com/FidesInnova/backend_node_docker_container
+### B.2. The IoT backend of the Fides Innova network - in docker. 
+#### https://github.com/FidesInnova/backend_node_docker_container
 
-## B.3. The IoT frontend of the Fides Innova network - source code. 
-### https://github.com/FidesInnova/mobile_app
+### B.3. The IoT frontend of the Fides Innova network - source code. 
+#### https://github.com/FidesInnova/mobile_app
 
 
 ## FIDES INNOVA IoT Service Contract Management
-## C.1. The IoT service contract creator and service market - source code
-### https://github.com/FidesInnova/developer_web_app
+### C.1. The IoT service contract creator and service market - source code
+#### https://github.com/FidesInnova/developer_web_app
 
 
