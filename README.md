@@ -28,36 +28,26 @@ Moreover, FidesInnova has a mobile application that allows network users to acce
 
 FidesInnova introduced the concept of a Service Contract, which is a small program code to automate communication between IoT devices through the nodes. Service contracts can be managed (created/edited/browsed/enabled) through the Service Contract Management web app, which is available on each FidesInnova network node.
 
-# Fides Private Repositories 
+# FidesInnova Repositories 
 #### To access the private repositories, please email info@fidesinnova.io
 
+## A. FidesInnova IoT node 
+### The IoT backend of the FidesInnova includes IoT server, web app, admin web app 
+#### https://github.com/FidesInnova/iot_node_backend_web_app 
 
-## A. FidesInnova BLOCKCHAIN NODE
-### The FidesInnova blockchain network includes the Validator and General nodes - source code.
+## B. FidesInnova blockchain node
+### The FidesInnova blockchain network includes the validator and general nodes
 #### [https://github.com/FidesInnova/iot_node_evm](https://github.com/FidesInnova/iot_node_evm)
 
-## B. FidesInnova IoT NODE
-### B.1. The IoT backend of the FidesInnova network - source code. 
-#### https://github.com/FidesInnova/iot_node_evm
-
-### B.2. The IoT frontend of the FidesInnova network - source code. 
+### C. The FidesInnova mobile app
 #### https://github.com/FidesInnova/mobile_app
 
-
-## C. FidesInnova IoT Service Contract Management
-### C.1. The IoT service contract creator and service market - source code
-#### https://github.com/FidesInnova/developer_web_app
-
-## D. FidesInnova IoT Hardware
+## D. ZKP-enabled IoT hardware
 ### D.1. Zero-Knowledge (zk) MultiSensor
-The zkMultiSensor is an IoT device that contains a thermometer, hygrometer, door sensor, motion detector, and a smart button. It can send data with a ZKP (Zero-Knowledge Proof) that includes the time and GPS coordinates of the data-gathering environment.
-#### https://github.com/FidesInnova/multi_sensor
+The zkMultiSensor is an IoT device that contains a thermometer, hygrometer, door sensor, motion detector, and a smart button. It can send data of the data-gathering environment with a ZKP (Zero-Knowledge Proof). It also supports an IoT mesh network protocol to let devices connect to the Internet without direct Internet access.
+#### https://github.com/FidesInnova/hw_fidesinnova_multi_sensor
 
-### D.2. Zero-Knowledge (zk) Camera
-The zkCamera is an image-capturing device whose microcontroller can prove the validity of its operation, attached with date/time and GPS coordinates.
-#### https://github.com/FidesInnova/Fides_ZKP
-
-### D.3. Wi-Fi Mesh Network on Espressif ESP32-C3 Microcontroller
-A Wi-Fi Mesh Network is a routing mechanism implemented that lets Wi-Fi-enabled systems form a mesh network without any need to access the Internet. 
-#### https://github.com/FidesInnova/multi_sensor
+### D.2. Zero-Knowledge (zk) E-card
+The E-card is an electronic business card to demonstrate the zkIoT functionality. The business card includes temperature and humidity sensors and a smart button.
+#### https://github.com/FidesInnova/hw_fidesinnova_E-card_ZKP
 
