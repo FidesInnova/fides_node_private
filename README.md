@@ -17,16 +17,24 @@
 </p>
 
 
-FidesInnova is a decentralized platform based on blockchain and zero-knowledge proof (ZKP) for automatic and authentication-free communication among Internet-of-Things (IoT), smart homes, and wearable devices.
+# FidesInnova: Redefining Security and Trust for the IoT Future
+FidesInnova sets a new benchmark for security and trust in the evolving landscape of IoT. Our platform leverages cutting-edge verifiable computing technologies, including zero-knowledge proofs (ZKP) and blockchain, to deliver unparalleled reliability and transparency.
+<br>
+## Key Features
+<strong>zk-IoT Platform:</strong> At the forefront of our offering, zk-IoT integrates ZKP technology into the IoT domain, redefining standards for decentralized, reliable IoT systems. It ensures the accuracy of firmware execution and facilitates seamless, trustworthy communication between IoT devices.
 
-The FidesInnova platform contains several network nodes distributed around the world. Each network node has:<br>
-1- An IoT backend equipped with the MQTT protocol to communicate with physical IoT devices.<br>
-2- A blockchain node that facilitates communication with other FidesInnova network nodes.<br>
-3- A service contract management module that enables automatic communication between untrusted IoT devices and users without any authentication.<br>
+<strong>Functional-Hiding Commitment Cryptography:</strong> Central to FidesInnova’s architecture is our advanced functional-hiding commitment cryptography algorithm, which underpins the security and integrity of data handling and processing.
 
-Moreover, FidesInnova has a mobile application that allows network users to access their IoT devices and blockchain accounts and wallets on the network. The mobile application is available on Android and iOS.
+<strong>Service Contracts:</strong> Introducing a groundbreaking feature, Service Contracts are customizable, JavaScript-based mini-programs that empower users to effortlessly manage and monetize IoT data. Our Service Market enhances this experience by providing a diverse range of pre-written contracts, expanding the functionalities of IoT devices with ease.
 
-FidesInnova introduced the concept of a Service Contract, which is a small program code to automate communication between IoT devices through the nodes. Service contracts can be managed (created/edited/browsed/enabled) through the Service Contract Management web app, which is available on each FidesInnova network node.
+## Ecosystem Components
+<strong> IoT Node:</strong> A software package equipped with ZKP-enabled JavaScript execution, acting as the core component for secure and authentic service contract execution.<br>
+
+<strong> Fides Mobile App:</strong> Available on major app stores, this app provides users with comprehensive control over their IoT devices.<br>
+
+<strong> Fides Web App:</strong> Designed for service creation and data monetization, it complements the mobile app by offering a robust platform for managing and expanding IoT capabilities.<br>
+
+FidesInnova isn’t just a platform; it’s a holistic ecosystem that empowers users and enhances their IoT experience through innovative technology and seamless integration.
 
 # FidesInnova Repositories 
 #### To access the private repositories, please email info@fidesinnova.io
