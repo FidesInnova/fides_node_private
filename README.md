@@ -37,7 +37,7 @@ FidesInnova sets a new benchmark for security and trust in the evolving landscap
 FidesInnova isn’t just a platform; it’s a holistic ecosystem that empowers users and enhances their IoT experience through innovative technology and seamless integration.
 
 # FidesInnova Repositories 
-#### To access the private repositories, please email info@fidesinnova.io
+#### To access the following repositories, please email info@fidesinnova.io
 
 ## A. FidesInnova IoT node 
 ### The IoT backend of the FidesInnova includes IoT server, web app, admin web app 
