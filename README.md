@@ -5,7 +5,6 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">A decentralized platform for trusted Internet-of-Things</p>
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
@@ -17,8 +16,8 @@
 </p>
 
 
-# FidesInnova: Redefining Security and Trust for the IoT Future
-FidesInnova sets a new benchmark for security and trust in the evolving landscape of IoT. Our platform leverages cutting-edge verifiable computing technologies, including zero-knowledge proofs (ZKP) and blockchain, to deliver unparalleled reliability and transparency.
+# Fidesinnova: Verifiable Computing for Secure and Trusted Execution
+Fidesinnova is a verifiable computing platform that ensures IoT devices are secure, cloud applications run correctly, and machine learning models produce valid results. Using Zero-Knowledge Proofs (ZKP), it provides tamper-proof, privacy-preserving, and auditable-computations across all applications.
 <br>
 ## Key Features
 <strong>zk-IoT Platform:</strong> At the forefront of our offering, zk-IoT integrates ZKP technology into the IoT domain, redefining standards for decentralized, reliable IoT systems. It ensures the accuracy of firmware execution and facilitates seamless, trustworthy communication between IoT devices.
